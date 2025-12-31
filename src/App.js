@@ -31,9 +31,17 @@ function App() {
       live: "https://feedback-website-ten.vercel.app/",
       github: "https://github.com/eshika09depale/feedback-website"
     },
+    { 
+      id: 4,
+      title: "💻 Cradzap", 
+      desc: "Create a Card", 
+      tech: "React Frontend", 
+      live: "https://cradzap.vercel.app/",
+      github: "https://github.com/eshika09depale/cradzap"
+    },
   ];
 
-  // ✅ WHATSAPP + EMAIL FUNCTION (UPDATED!)
+  // ✅ WHATSAPP + EMAIL FUNCTION
   const handleContact = (e) => {
     e.preventDefault();
     
@@ -124,7 +132,7 @@ function App() {
                 <p>Indore, Madhya Pradesh | GATE 2026 Prep</p>
                 <div className="hero-stats">
                   <span>🎓 B.Tech IT (Final Year)</span>
-                  <span>💻 <strong>3+</strong> Projects</span>
+                  <span>💻 <strong>4+</strong> Projects</span>
                   <span>📍 Indore, MP</span>
                 </div>
               </div>
@@ -175,12 +183,12 @@ function App() {
               </div>
               <div className="stats">
                 <div className="stat">
-                  <h4>3</h4>
+                  <h4>4</h4>
                   <p>Live Projects</p>
                   <small>Production Ready</small>
                 </div>
                 <div className="stat">
-                  <h4>10</h4>
+                  <h4>12</h4>
                   <p>GitHub Repos</p>
                   <small>All Public</small>
                 </div>
