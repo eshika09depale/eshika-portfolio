@@ -15,6 +15,22 @@ function App() {
       live: "https://code-tech-task-1.vercel.app/",
       github: "https://github.com/eshika09depale/CodeTech-Task-1"
     },
+    { 
+      id: 2,
+      title: "💻 React-Quiz-App", 
+      desc: "Coding challenge solution with clean", 
+      tech: "React App", 
+      live: "https://react-quiz-app-psi-sepia.vercel.app/",
+      github: "https://github.com/eshika09depale/react-quiz-app"
+    },
+    { 
+      id: 3,
+      title: "💻 Feedback-Website", 
+      desc: "Coding challenge solution with Feeedback Website", 
+      tech: "HTML + CSS + JavaScript", 
+      live: "https://feedback-website-ten.vercel.app/",
+      github: "https://github.com/eshika09depale/feedback-website"
+    },
   ];
 
   // ✅ WHATSAPP + EMAIL FUNCTION (UPDATED!)
@@ -108,7 +124,7 @@ function App() {
                 <p>Indore, Madhya Pradesh | GATE 2026 Prep</p>
                 <div className="hero-stats">
                   <span>🎓 B.Tech IT (Final Year)</span>
-                  <span>💻 <strong>1+</strong> Projects</span>
+                  <span>💻 <strong>3+</strong> Projects</span>
                   <span>📍 Indore, MP</span>
                 </div>
               </div>
@@ -159,12 +175,12 @@ function App() {
               </div>
               <div className="stats">
                 <div className="stat">
-                  <h4>1</h4>
+                  <h4>3</h4>
                   <p>Live Projects</p>
                   <small>Production Ready</small>
                 </div>
                 <div className="stat">
-                  <h4>11</h4>
+                  <h4>10</h4>
                   <p>GitHub Repos</p>
                   <small>All Public</small>
                 </div>
